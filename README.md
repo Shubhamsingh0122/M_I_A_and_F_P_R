@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>Fill your discipline name here
 :--|:--|
-<b> Lab | Mini Project <b> Fill your lab name here
+<b> Lab | Virtual Lab <b> Fill your lab name here
 <b> Experiment|  Michelson Interferometer Alignments and Finge Pattern Reconstruction   <b> Fill your experiment name and number here
 
 ### About the Experiment 
