@@ -13,7 +13,7 @@ Fill a brief description of this experiment here
 <b>Name of Developer | Shubham Singh <b> Fill the name of experiment owner here 
 :--|:--|
 <b> Institute | Rajkiya Engineering College Banda<b>  
-<b> Email id | 2507340130057@recbanda.ac.in    <b>  
+<b> Email id | shybhamkumar5678@gmail.com  <b>  
 <b> Department | Information Technology 
 
 ### Contributors List
