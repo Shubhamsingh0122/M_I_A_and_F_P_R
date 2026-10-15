@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | Mini Project <b>
+<b>Discipline | Information Technology <b>
 :--|:--|
 <b> Lab | Virtual Lab <b>
 <b> Experiment|  Michelson Interferometer Alignments and Finge Pattern Reconstruction   <b>
